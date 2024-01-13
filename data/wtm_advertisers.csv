@@ -9,6 +9,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 050cfb28-52ef-4230-b7a2-7ebbd930b356,Paul Scully MP,2023-02-19T10:52:47.884Z,7fb8c688-1e81-483f-b899-2b4e35c77f42,Lab,true,true,Australia,au,1717568768494213,Paul Scully MP,Facebook
 052c6600-6233-4ab1-9237-713514fb7e57,Peter Khalil,2023-02-08T05:54:35.349Z,d4a31413-f080-44d5-a446-39fcd9fb8698,Lab,true,true,Australia,au,1609771445950238,Peter Khalil,Facebook
 05de686a-198d-478c-9b41-aed700fd24fe,Hugh Jones MLA,2023-03-07T10:52:33.144Z,e829c63c-5a1e-4a4e-8185-cbb9e95a4578,Lab,true,true,Australia,au,112448177211679,Hugh Jones MLA,Facebook
+0657f26e-e4e1-4b71-877f-b2b45100634d,Dean Winter MP,2023-12-03T05:05:37.665Z,b82c5aa8-ab6c-419e-8a47-e991e411fd0c,Lab,true,true,Australia,au,282817118419395,Dean Winter MP,Facebook
 07f2f175-805a-42c7-ad77-82732c70c2e8,Lee Odenwalder MP,2022-08-16T15:28:43.604Z,d568671b-ad20-4765-987a-f318f32320ef,Lab,true,true,Australia,au,129689933775517,Lee Odenwalder MP,Facebook
 07fca929-51c4-4851-8dfe-a0290ceecb8b,Julie Owens MP,2022-08-16T15:28:43.818Z,22434504-d4e0-469e-b2d2-0e8cc1bc7966,Lab,true,true,Australia,au,461589273918145,Julie Owens MP,Facebook
 086f4eca-90f0-42c3-99ec-aaeb7595c821,Strathfield Labor Councillors,2022-08-16T15:28:39.162Z,acae6989-bc9f-4930-af1a-5c5b37eb9333,Lab,true,true,Australia,au,245848775928165,Strathfield Labor Councillors,Facebook
@@ -293,6 +294,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 9522ebc1-b0e3-4436-a897-6fbc6f71b4aa,Rebecca White MP,2023-02-11T10:52:19.817Z,f19b3fa8-1511-45b2-bd70-d6b77e015903,Lab,true,true,Australia,au,123434864414732,Rebecca White MP,Facebook
 95a3cbcb-9686-4245-b96c-5b35366fc79e,Labor for Myall Lakes,2023-03-03T10:52:34.325Z,98027409-daf8-4c7b-8eb9-aedcf961a6b5,Lab,true,true,Australia,au,100710396207035,Labor for Myall Lakes,Facebook
 9777529c-6d3e-445f-98d3-fd0714470d9b,Senator Raff Ciccone,2023-02-08T05:54:35.278Z,42d4ea92-614f-42c5-8bb3-48d2c89e7894,Lab,true,true,Australia,au,2730963457129454,Senator Raff Ciccone,Facebook
+97b83262-d2fa-4e50-ae0b-ca78efae0437,Alicia Weiderman - Labor for Coorparoo,2023-12-25T05:06:12.663Z,c85fbdb7-9181-46ae-8ac1-e0948aaa6b93,Lab,true,true,Australia,au,163355463521264,Alicia Weiderman - Labor for Coorparoo,Facebook
 97e3439e-5213-48a8-8fa4-e53d5e1fc693,Cressida O'Hanlon,2023-05-12T06:52:23.976Z,b9fa8625-5b90-4161-8ea7-8288d62159f9,Lab,true,true,Australia,au,103611388592104,Cressida O'Hanlon,Facebook
 97f03330-34f1-48e1-b92a-6cdb5388e6f7,Michelle O'Byrne MP,2023-07-31T10:53:57.466Z,fc3a9c4f-fc30-4df7-95fd-b2574c5a31ec,Lab,true,true,Australia,au,140283842842792,Michelle O'Byrne MP,Facebook
 9879eba8-45f6-4c35-93ad-be51e65eced7,Prue Car MP,2023-03-08T18:58:57.549Z,d66b96f1-08be-4369-90a6-0b605dbd3e6e,Lab,true,true,Australia,au,418035078263307,Prue Car MP,Facebook
@@ -504,6 +506,8 @@ ffe726a8-a541-46f2-a9b9-66ec90d320a5,Simon Millman MLA,2023-05-23T06:52:29.624Z,
 3bbc8abd-d5b4-4fbf-9a90-bbe2e1460f55,Tania Maxwell MP,2022-08-16T15:28:43.962Z,5daadcac-3ca0-49eb-9c21-3ad8658773f8,Oth,true,true,Australia,au,507286429698443,Tania Maxwell MP,Facebook
 3ce57498-9312-44c6-bdb8-7018edb6780f,The Winston Smith Initiative,2023-08-14T05:06:33.086Z,1cfc597a-c637-43ff-8fc6-26f0e0a8743d,Oth,true,true,Australia,au,115979558249696,The Winston Smith Initiative,Facebook
 3e3a953f-7540-4243-9885-96389595ad7d,UQ Monarchist League,2023-03-29T10:52:28.219Z,53f20364-44e6-4b2c-b5fb-88a5855b7e35,Oth,true,true,Australia,au,104358895240801,UQ Monarchist League,Facebook
+3eb06303-55bf-421d-95bb-a6263dea6823,Murdoch Media Royal Commission,2023-12-22T05:05:57.327Z,c9285ff3-75d2-4780-97d6-35b10e03c418,Oth,true,true,Australia,au,107502438389893,Murdoch Media Royal Commission,Facebook
+411aa816-2fee-4c5e-978f-19540de1b52a,Lock The Gate Brisbane,2023-10-29T05:06:39.910Z,5e52cb80-569e-44c7-9a7d-39c715b9e16b,Oth,true,true,Australia,au,1485895321650669,Lock The Gate Brisbane,Facebook
 41e25438-ab14-4f2b-a235-77e1cabe05a5,Cr Ashleigh Vandenberg - City of Melton - Coburn Ward,2023-03-08T18:26:43.451Z,73f7e3af-d1ed-470f-aef1-71f34bfef777,Oth,true,true,Australia,au,102890841544454,Cr Ashleigh Vandenberg - City of Melton - Coburn Ward,Facebook
 46b53b00-31bf-4ce1-9244-4c98eb64aa6d,First Peoples' Assembly of Victoria,2023-02-08T05:54:35.252Z,2de85665-de50-4695-912a-014384930f8f,Oth,true,true,Australia,au,425487554863185,First Peoples' Assembly of Victoria,Facebook
 46e9c3d1-05a3-41b4-a573-4a55f4f1d020,"Councillor Blake Lawrenson - Water Gully Ward, City of Tea Tree Gully",2023-03-25T10:52:12.039Z,fd6deb19-24c8-49de-ba08-3edd8203bea1,Oth,true,true,Australia,au,102207652565061,"Councillor Blake Lawrenson - Water Gully Ward, City of Tea Tree Gully",Facebook
@@ -708,6 +712,7 @@ fee1d902-fd87-4e0a-817d-14a90626c321,NSW Legislative Council,2023-03-10T10:52:26
 39452d33-1ecd-49e4-9f3d-5e0e4bbfbcf3,Senator Andrew Bragg,2022-08-16T15:28:44.565Z,7739fe64-5fcc-49e5-8d75-72f78c7ed637,Lib,true,true,Australia,au,290728284731560,Senator Andrew Bragg,Facebook
 397b54e8-acff-4b1b-bb50-565fdb85a9a5,Terry Young MP,2022-08-16T15:28:38.873Z,03d6a9cf-7304-4eda-8784-ccb1e12e8411,Lib,true,true,Australia,au,1300759363397790,Terry Young MP,Facebook
 39d88e19-b459-426c-a657-6b7b5b1b85ab,Nola Marino MP,2022-08-16T15:28:43.840Z,4dfc4105-1e72-4aca-b615-165056db4664,Lib,true,true,Australia,au,154782298000891,Nola Marino MP,Facebook
+3a7f45c2-eb2f-4599-ac63-1c0f9f64a03a,Matt Evans - Liberal for Bendigo,2023-12-22T05:05:57.363Z,32a7736a-ee0e-4e69-84c4-cf40af00e174,Lib,true,true,Australia,au,131504493389829,Matt Evans - Liberal for Bendigo,Facebook
 3a88a23d-9b18-467c-b547-5f5c11cda757,Ben Hood - Liberal for Mount Gambier,2022-08-16T15:28:41.144Z,68f57a60-f99c-4576-bbb3-2d7448f1c4f3,Lib,true,true,Australia,au,103974285338593,Ben Hood - Liberal for Mount Gambier,Facebook
 3a9d2750-1f7f-4fa4-82e4-29f80e3de0bd,Sharn Coombes,2022-08-16T15:28:37.536Z,080cf907-13cc-4115-81db-900daa6a3b4b,Lib,true,true,Australia,au,103679315330488,Sharn Coombes,Facebook
 3c5709c9-b36c-4bc0-a9bb-8d6c444a8f50,Richard Harvey MP - Member for Newland,2022-08-16T15:28:38.874Z,cd42b077-b9f6-4313-8e41-d1f1d41399b5,Lib,true,true,Australia,au,1919749431635010,Richard Harvey MP - Member for Newland,Facebook
@@ -1109,6 +1114,7 @@ fe423a52-0ebe-4948-a0f3-e8051375b171,Deputy Mayor Romola Hollywood,2023-03-01T10
 2c5a1756-d5c5-4e61-8777-6bb762ac08b8,"Isabella Tripp, Greens Candidate for City of Perth",2023-10-01T05:06:29.465Z,ca1e45a3-2fac-4111-b52a-c07d54e55e0a,Gre,true,true,Australia,au,106943412508386,"Isabella Tripp, Greens Candidate for City of Perth",Facebook
 2d5cbc07-ef5a-461a-b694-175847065e39,Elizabeth Watson-Brown - Greens for Ryan,2022-08-16T15:28:42.814Z,92d96c48-ad69-4329-8928-7fd124c3f7b4,Gre,true,true,Australia,au,111439084384686,Elizabeth Watson-Brown - Greens for Ryan,Facebook
 2d8d2fe7-2e70-49f3-8c19-41a3630cf9a3,Senator Sarah Hanson-Young,2022-08-16T15:28:44.857Z,5042cfd9-8c2c-4e9c-8c34-92be8373e364,Gre,true,true,Australia,au,169115193111983,Senator Sarah Hanson-Young,Facebook
+2fb036af-c625-4622-9f89-9a70f0e8655f,Robert Simms MLC,2023-10-10T05:06:25.678Z,48201816-50e5-42ab-8ac9-17be4fac7192,Gre,true,true,Australia,au,1432700897013466,Robert Simms MLC,Facebook
 2fdfec5c-47bb-4e19-a55c-02027a3368a5,Arthur Bain - Greens on Kempsey Shire Council,2022-08-16T15:28:41.868Z,b1b706a8-f5e8-44a9-b423-80a9bf326b39,Gre,true,true,Australia,au,363499507785846,Arthur Bain - Greens on Kempsey Shire Council,Facebook
 306f1bcd-19a6-4133-8be7-98a167b1af99,Vote 1 - Greens for Riverstone,2023-02-10T10:52:40.943Z,c99272a7-d9d8-476c-b5be-a8c935570ee0,Gre,true,true,Australia,au,100362472854254,Vote 1 - Greens for Riverstone,Facebook
 31649022-7bee-4796-98b6-fa78e18a82bf,"Jamie Dixon, Greens",2023-03-01T10:52:31.211Z,dc8f6fdf-cc84-461f-8f04-c700c221f833,Gre,true,true,Australia,au,270122843457319,"Jamie Dixon, Greens",Facebook
@@ -1162,6 +1168,7 @@ fe423a52-0ebe-4948-a0f3-e8051375b171,Deputy Mayor Romola Hollywood,2023-03-01T10
 751d48e8-b476-47de-9eac-7b92714593d8,Louise Ihlein Greens 4 Cessnock Ward B,2022-08-16T15:28:43.059Z,0d53b256-f4ff-486b-894d-de3f04363009,Gre,true,true,Australia,au,106881018044053,Louise Ihlein Greens 4 Cessnock Ward B,Facebook
 758b0731-410d-4a32-9f35-cb2f91365458,Greens for Charlestown,2023-02-28T10:52:43.261Z,2fefa835-5b69-4d60-acc8-67d5ef30ac2d,Gre,true,true,Australia,au,115380794803316,Greens for Charlestown,Facebook
 75cf4fc2-f57a-4189-b684-12038297b828,Port Stephens Greens,2023-03-17T10:52:42.590Z,c2d4bf73-4829-45aa-ac6f-d2f6b63454f5,Gre,true,true,Australia,au,373631149365658,Port Stephens Greens,Facebook
+7fcfafe8-0043-4f1b-86c2-a1bb2b0a5f83,Queensland Greens,2023-12-03T05:05:37.742Z,29a47a11-4174-454c-a153-ec752abdee1f,Gre,true,true,Australia,au,149442265077423,Queensland Greens,Facebook
 80158d44-a88e-418b-8b7b-f52d520a2bfb,Sam Hibbins,2023-03-06T10:52:35.699Z,59efe37d-3ec9-4203-b0cd-4a9809c18b55,Gre,true,true,Australia,au,424862620880565,Sam Hibbins,Facebook
 809ccf20-0b59-41ed-9ecb-a8bd7518ead3,Izabella Antoniou - Greens for Summer Hill,2023-02-19T10:52:47.640Z,dd84e65f-d8fc-4b87-a0aa-55cf663e8dc6,Gre,true,true,Australia,au,104383639112989,Izabella Antoniou - Greens for Summer Hill,Facebook
 8190c160-89f4-4507-9f76-904a44e41f11,Ashley Edwards - Albury Greens Councillor,2022-08-16T15:28:40.230Z,1796aac4-5d6b-4227-8e1d-2e27df1eab6e,Gre,true,true,Australia,au,100356062178765,Ashley Edwards - Albury Greens Councillor,Facebook
@@ -1247,6 +1254,7 @@ f7b98f2e-b00a-46ee-999c-9e6f65ced89d,"Mithra Cox, Greens",2022-08-16T15:28:38.34
 fa6f73ce-582c-4ac4-a7a0-741369931627,Miranda Korzy - Greens,2022-08-16T15:28:43.185Z,fb89ac29-0099-4a67-aca8-31f9beef6b82,Gre,true,true,Australia,au,1399404173480220,Miranda Korzy - Greens,Facebook
 fb0a3a9d-a761-4ff6-9794-08ef1bd4726c,Dr. Vida Shahamat Hills Shire Greens,2022-08-16T15:28:40.233Z,bc234706-8a9d-4e52-b8c2-6d8bae8cf085,Gre,true,true,Australia,au,110002511254227,Dr. Vida Shahamat Hills Shire Greens,Facebook
 fb229b9b-b0aa-464f-b030-4ec65faa17c9,Canada Bay Greens,2022-08-16T15:28:39.938Z,e6d3c123-082a-4408-8c1c-550fc41604f7,Gre,true,true,Australia,au,1458017667783520,Canada Bay Greens,Facebook
+fd0f7f91-7417-4434-9fcc-cdeb788b8ee6,Dr Brad Pettitt MLC,2023-12-04T05:05:44.739Z,b855e3c8-cd8a-4abd-9407-836009cb5ecf,Gre,true,true,Australia,au,102601384744314,Dr Brad Pettitt MLC,Facebook
 fd9499f2-b389-46c6-a15f-2635813f4ac7,"Jeff Passlow, Greens candidate for Cootamundra",2023-03-01T10:52:31.263Z,4f7725db-e81a-44a8-85c9-fb8da1b33ef1,Gre,true,true,Australia,au,115784764757803,"Jeff Passlow, Greens candidate for Cootamundra",Facebook
 ff65ed11-4075-41c8-8a8e-ac93d482005e,Cosmin Luca - Greens for City of Ryde,2022-08-16T15:28:39.679Z,3ba308ee-fe9d-4e8b-b609-260dc4a35697,Gre,true,true,Australia,au,105270808444272,Cosmin Luca - Greens for City of Ryde,Facebook
 ffc84cda-69f7-4db6-8842-ca32d4bc3df1,Mandy Nolan - Greens for Richmond,2022-08-16T15:28:41.258Z,817760a0-0579-4314-8114-cd85f4b3217a,Gre,true,true,Australia,au,143594097504464,Mandy Nolan - Greens for Richmond,Facebook
@@ -1308,6 +1316,7 @@ fd24d43a-42c1-4526-b46a-b079598e5baf,Richie Williamson for Clarence,2023-02-19T1
 0b879ac2-c708-4bb1-aa41-d25014e7a7c2,Andrew Tsounis - Independent Bayside Councillor,2022-08-16T15:28:43.066Z,4be78338-aeca-4847-9266-ffe0076e2111,Ind,true,true,Australia,au,2075960465967200,Andrew Tsounis - Independent Bayside Councillor,Facebook
 1011a16d-fff9-423f-9307-8847c380a4b4,Louise Elliot - Hobart City Council,2023-03-18T10:52:22.852Z,fc34120c-affc-462b-baa8-828fbdb8bc58,Ind,true,true,Australia,au,103216815019670,Louise Elliot - Hobart City Council,Facebook
 11c2f7a5-233c-4038-b9be-d548e631396b,PETER J. HOOD CPA - Mayoral Candidate Whitsunday Regional Council,2023-02-08T06:20:13.778Z,70d344c9-2db0-409a-9d17-841a2dd41896,Ind,true,true,Australia,au,104473422044858,PETER J. HOOD CPA - Mayoral Candidate Whitsunday Regional Council,Facebook
+11cc5448-cff9-4f0b-8744-ddcd5413807b,AndyKent4Freo,2023-10-12T05:08:28.206Z,68ff9ef4-0058-4c3e-b68e-959b38562acf,Ind,true,true,Australia,au,112458191954594,AndyKent4Freo,Facebook
 11dd79ff-36f7-4fca-8d80-3fe98e20e99b,Brian O'Gallagher for Waters Ward,2023-03-08T17:22:51.788Z,78f18989-fb23-4e49-a595-5499839b49e7,Ind,true,true,Australia,au,119962146939286,Brian O'Gallagher for Waters Ward,Facebook
 134a691c-7075-45fc-8929-0579e797d205,James Mullan Independent for North Sydney Council,2022-08-16T15:28:42.133Z,9a89a181-2481-4f0f-a331-8a4c71463306,Ind,true,true,Australia,au,106068721639659,James Mullan Independent for North Sydney Council,Facebook
 14641fab-5c1d-4e22-b840-5183644c94bb,Warren Grzic,2023-03-10T10:52:27.065Z,67174dff-87b2-45bc-858d-6ca315c60f5a,Ind,true,true,Australia,au,1681773282086640,Warren Grzic,Facebook
@@ -1399,13 +1408,16 @@ b041d00f-e6ac-4d21-ab99-b2b26b7c8af0,Rod Barton,2023-06-08T06:52:27.732Z,784a7e9
 b424e8f0-ea1a-4751-8261-44e6ca699e87,Independent Candidates for Maitland,2022-08-16T15:28:38.560Z,cba60b8b-a729-42e9-99bc-8c426f94f128,Ind,true,true,Australia,au,101941968881105,Independent Candidates for Maitland,Facebook
 b4e0dc2b-5204-41e5-8d27-df2272730a7e,Melanie Holdsworth - Independent for Penrith City Council,2022-08-16T15:28:39.735Z,f5cd01c4-54e4-4e30-88c5-44f399b4cfe8,Ind,true,true,Australia,au,101082338907988,Melanie Holdsworth - Independent for Penrith City Council,Facebook
 b6313447-428e-4e65-8bc7-2bfbe2046d73,Deputy Lord Mayor Jess Scully,2022-08-16T15:28:42.510Z,a31822ee-c91f-4c8c-a26d-386dd620d93a,Ind,true,true,Australia,au,1858012544414570,Deputy Lord Mayor Jess Scully,Facebook
+b8918764-3ecf-4414-99d8-6c0db4de9793,Shooters Fishers and Farmers Party Western Australia,2023-10-17T05:06:28.050Z,c81156a7-eb55-4233-aee8-a64c7e7d4427,Ind,true,true,Australia,au,108446554444125,Shooters Fishers and Farmers Party Western Australia,Facebook
 b8ce1a31-0cb2-414f-b32d-e27804fa6db9,Clare Glade-Wright - Candidate for Franklin,2023-10-08T05:06:39.813Z,d593293f-cec5-4fed-a015-93e5af467f5e,Ind,true,true,Australia,au,108254844777331,Clare Glade-Wright - Candidate for Franklin,Facebook
 ba3a4551-85ea-4516-a5bc-e27161d23119,Lord Mayor Clover Moore,2022-08-16T15:28:36.742Z,6873b856-a2ab-4543-9f9b-34e3b99e24d5,Ind,true,true,Australia,au,188745927830015,Lord Mayor Clover Moore,Facebook
 bf4efac0-cbb4-40fa-a0a9-e852b724c316,Philip Donato,2023-03-08T20:24:14.946Z,08240964-b925-480e-9162-3386da41fba9,Ind,true,true,Australia,au,736354259835745,Philip Donato,Facebook
 c21442c8-1c2b-4663-89b7-366f7313fe91,Chris Baguley - Independent Candidate for West Ward Port Stephens Council,2022-08-16T15:28:42.376Z,d924be3c-a4bc-407c-b8fc-a2b586929f18,Ind,true,true,Australia,au,102170805317601,Chris Baguley - Independent Candidate for West Ward Port Stephens Council,Facebook
+c579b3cd-06bc-4802-9fd2-b20d7d64558c,Benjamin Broeder,2023-09-17T05:06:12.122Z,8c53ff75-93d1-4989-aa25-eac659011302,Ind,true,true,Australia,au,126711557189789,Benjamin Broeder,Facebook
 c68aeeda-b486-4abf-b2fe-ce74846e5b07,Councillor Bridget Kennedy,2022-08-16T15:28:39.282Z,674b0c30-537a-4c6f-9c97-a5e43a840bef,Ind,true,true,Australia,au,104900908323612,Councillor Bridget Kennedy,Facebook
 cabe0409-8184-4809-b334-60f0f62b8ad5,Lou Nicholson Independent,2022-08-16T15:28:42.952Z,5fa90982-637b-4f4d-b172-2e61b244f4cf,Ind,true,true,Australia,au,100273818827282,Lou Nicholson Independent,Facebook
 cd847186-6beb-4c33-8a9f-9b6d68ca4e4f,Independent Roselands Ward,2022-08-16T15:28:41.257Z,12336527-239e-4de8-a78f-b1f1e5fadc6b,Ind,true,true,Australia,au,112020694635158,Independent Roselands Ward,Facebook
+ce3834ed-e686-478f-8acd-6b4069ec4f55,Nicolette Boele,2023-10-10T05:06:25.399Z,73a798f4-d7f7-42db-ba56-4c5a8864842b,Ind,true,true,Australia,au,102562075663730,Nicolette Boele,Facebook
 d07f4722-192e-4714-904c-22c71e9c6a07,Kate Chaney MP,2023-06-20T05:28:08.856Z,01a7a413-7367-4b2d-961e-36fe41f6ecb4,Ind,true,true,Australia,au,110679918187811,Kate Chaney MP,Facebook
 d094043c-1db7-4be7-aa11-ade1db14b3fe,Caleb Taylor Independent for West Ward,2022-08-16T15:28:41.604Z,3fe40795-5bb5-433b-ac02-45e4b49dfa3f,Ind,true,true,Australia,au,108405148161401,Caleb Taylor Independent for West Ward,Facebook
 d33ef1f7-b19b-486a-b407-62a0d3b94716,Independent Lismore,2022-08-16T15:28:38.996Z,0688060d-e27d-453d-a168-af8cd17543ed,Ind,true,true,Australia,au,101031602367003,Independent Lismore,Facebook
@@ -1414,6 +1426,7 @@ d62be335-5959-40c0-a310-d99a78f55e37,Penny Ackery - Independent for Hume,2022-08
 d64d0806-bb65-45b3-8cf2-fade8acaf1e4,David Grace- Kingborough Council,2023-03-08T19:30:59.173Z,df51ab89-d2dc-4005-8412-39a8987f2883,Ind,true,true,Australia,au,215696352487057,David Grace- Kingborough Council,Facebook
 dc52fbd3-6722-42d5-9b28-817d87253f8d,Shoalhaven Independents,2022-08-16T15:28:37.022Z,59268c75-d07a-421c-b5b6-b595996872fb,Ind,true,true,Australia,au,101347988036408,Shoalhaven Independents,Facebook
 de9d9667-e229-46cd-bfad-532cb067bc3b,Greg Adamson,2023-03-16T10:52:39.039Z,28e83e2c-ccb1-42a5-a7fb-1eaace66f30f,Ind,true,true,Australia,au,228048688084991,Greg Adamson,Facebook
+e0a2ce11-31c8-405a-972d-26a1888fdfd4,Dr. George Razay,2023-06-19T18:24:22.967Z,f8bcb50c-f1e1-406c-9c4e-373ea7406626,Ind,true,true,Australia,au,109481001177661,Dr. George Razay,Facebook
 e26ba9d1-e750-43e5-ae73-f860308cd138,Byron Independents,2022-08-16T15:28:43.332Z,0dd52f0d-e3fd-429c-912b-7428c4d2f539,Ind,true,true,Australia,au,109342284839207,Byron Independents,Facebook
 e46430f7-5297-40bb-8cbc-79beb973d58a,Mick Jackson - Independent Candidate - Camden South Ward,2022-08-16T15:28:40.882Z,3bdd6cd0-0fd1-43c5-accd-79dd6b6c0bc2,Ind,true,true,Australia,au,449813425384756,Mick Jackson - Independent Candidate - Camden South Ward,Facebook
 e4f77383-1326-48fa-abe5-1c667f2a69f1,Craig Sheahan - Independent for Wollondilly East Ward,2022-08-16T15:28:41.915Z,ea4c00a1-4e73-4c51-abb7-0d7c6bb039ff,Ind,true,true,Australia,au,103734548610015,Craig Sheahan - Independent for Wollondilly East Ward,Facebook
@@ -1429,6 +1442,7 @@ f345d59e-f977-4423-ad94-a71210b78e13,Jan For Fadden,2023-06-19T18:24:22.617Z,a7c
 f4d4d809-c007-4964-bc3a-682d7bdd0471,Kyran Odonnell,2023-09-24T05:06:26.347Z,0604da91-eb72-4e8b-8ed6-4ee6bbdd5831,Ind,true,true,Australia,au,134658753059223,Kyran Odonnell,Facebook
 f90e313f-d051-4032-ab8b-6945dfa45491,Independent Voices for the Senate,2022-08-16T15:28:40.892Z,00e5e1fd-3275-44b9-9be8-88c73b2f6d95,Ind,true,true,Australia,au,100192822331875,Independent Voices for the Senate,Facebook
 f9155c98-261c-42f3-a491-98444c437a6c,Alex Greenwich,2023-03-14T10:52:12.301Z,ab22c26c-68be-44a3-8356-28bc75028292,Ind,true,true,Australia,au,200504676749108,Alex Greenwich,Facebook
+faff8d04-8cd5-49ab-a48a-b5acc22b6db4,Stop the Treaties Party,2023-12-16T05:06:19.023Z,90cedee5-733e-4322-8c0d-b208d412fa29,Ind,true,true,Australia,au,164079520129109,Stop the Treaties Party,Facebook
 fd4b42c1-2e58-4815-85a5-aa693a947c3b,Shouv Sarker - City of Canning Resident & Ratepayer,2023-02-16T10:52:33.185Z,a36c36a8-b505-452a-a3c1-708a56c1e107,Ind,true,true,Australia,au,109412995262674,Shouv Sarker - City of Canning Resident & Ratepayer,Facebook
 0aba30ce-088a-4b73-9c10-00f311ad2462,Mackay for Yes,2023-09-24T05:06:25.807Z,a3a2ee14-68af-4b20-a2f6-5475fee6c3cc,Yes,true,true,Australia,au,131563123364033,Mackay for Yes,Facebook
 0c478d57-0f94-4070-88ad-d89e4bbe2f35,"Together, Yes",2023-09-29T05:06:26.639Z,a203120b-b890-4729-bc56-09b9b5cf33f3,Yes,true,true,Australia,au,115763771414336,"Together, Yes",Facebook
